@@ -403,7 +403,7 @@ GameObject:
   - component: {fileID: 829670139}
   - component: {fileID: 829670143}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -515,7 +515,7 @@ MonoBehaviour:
   spherePos: {fileID: 1148115107}
   readyBall: {fileID: 490960450}
   shoot: 1
-  autoShoot: 1
+  autoShoot: 0
   force: 1000
 --- !u!1 &1148115107
 GameObject:

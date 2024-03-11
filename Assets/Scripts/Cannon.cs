@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CannonBall : MonoBehaviour
+public class Cannon : MonoBehaviour
 {
     public GameObject ballPrefab1, ballPrefab2, ballPrefab3, spherePos, readyBall;
     public bool shoot, autoShoot;
